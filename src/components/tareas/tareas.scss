@@ -1,0 +1,26 @@
+.tareas{
+    
+    display: flex;
+    padding-top: 3rem;
+    flex-direction: column;
+    gap: 20px;
+}
+.tareas{
+    a{
+
+        text-decoration: none;
+    }
+}
+.tarea{
+    max-width: 500px;
+    overflow: hidden;
+    color: white;
+    padding: 15px 10px 15px 10px;
+    border: 1px solid white;
+}
+
+.tarea{
+    p{
+        padding: 10px 0 10px 0;
+    }
+}
